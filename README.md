@@ -34,7 +34,7 @@ raushan = {
 
 ## 🛠️ Skills & Tech Stack
 
-**Machine Learning & Algorithms**
+***Machine Learning & Algorithms***
 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square&logo=xgboost&logoColor=white)
