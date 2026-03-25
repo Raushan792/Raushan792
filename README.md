@@ -2,7 +2,7 @@
 
 # Hi there, I'm Raushan Kumar 👋
 
-### Aspiring Data Scientist | Python · SQL · Machine Learning
+### Aspiring Data Scientist | Python · SQL · Machine Learning..
 
 *Passionate about turning data into insights*
 
