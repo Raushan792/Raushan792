@@ -42,7 +42,7 @@ raushan = {
 
 `Logistic Regression` · `Random Forest` · `SVM` · `XGBoost`
 
-**Natural Language Processing**
+***Natural Language Processing***
 
 `Text Classification` · `Feature Extraction` · `Sentiment Analysis`
 
